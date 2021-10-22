@@ -1,0 +1,53 @@
+body {
+    background-color: #FAFAD2;
+}
+
+
+.row {
+    /*background-color: lightgreen;*/
+    margin-left: 2%;
+    margin-right: 2%;
+    padding-left: 10px;
+    padding-top: 10px;
+    
+    
+}
+
+.col-2 {
+    padding: 15px;
+    border-top: solid;
+    border-bottom: solid;
+}
+
+.tekstiä {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 20px;
+}
+
+.div1 {
+margin-top: 40px;
+}
+
+.div2 {
+    margin-top: 30px;    
+    }
+
+.div3 {
+    margin-top: 30px;
+        }
+
+.col-6 {
+
+}
+
+.tiedot {
+    margin-top: 120px;
+    margin-left: 50px;
+    font-size: 13px;
+    width: 250px;
+    border-style: solid;
+    background-color: lightpink;
+    opacity: 0.8;
+    font-weight: bold;
+}
